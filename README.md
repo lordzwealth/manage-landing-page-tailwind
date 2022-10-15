@@ -41,11 +41,10 @@ Users should be able to:
 ### Built with
 
 - HTML5 markup
-- TailwindCSS
+- TailwindCSS (https://tailwindcss.com)
 - Flexbox
 - CSS Flex
 - Mobile-first workflow
-- https://tailwindcss.com - TailwindDocs
  
 
 ## Author
